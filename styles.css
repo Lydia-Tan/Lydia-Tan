@@ -1,7 +1,7 @@
 main{
     min-height:100vh;
     /* background: linear-gradient(to right top, #7bd5f5, #787ff6) */
-    background: linear-gradient(to right top, #7bd5f5,#9a9cea);
+    background: linear-gradient(to right top, #bf7ec5,#9a9cea);
     display:flex;
     align-items: center;
     justify-content: center;
@@ -17,8 +17,8 @@ main{
     backdrop-filter: blur(2rem);
 }
 #lydpic{
-    height: 50vh;
-    width: 50vh;
+    height: 20vh;
+    width: 20vh;
 }
 /* 
 .shapes1, .shapes2{
