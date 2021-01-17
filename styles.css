@@ -53,6 +53,7 @@ main{
 .user h3{
    margin: 3px;
     font-size: 20px;
+    color: #000000;
 }
 .link{
     display:flex;
@@ -68,7 +69,18 @@ main{
 
 
 }
+a:hover, a:visited, a:link, a:active{
+    text-decoration: none !important;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #6d4a71;
 
+}
 .projects-area{
     /* display: flex;
     flex-direction: column;
@@ -118,6 +130,18 @@ main{
 
 .card h3{
    margin: 0px;
+}
+
+a.projlinks{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin: 0px;
+    color:#000000 !important;
 }
 
 #kssi{
