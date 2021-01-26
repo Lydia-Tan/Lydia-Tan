@@ -12,7 +12,7 @@ I'm a first-year computer science student at the University of Michigan. I love 
  </tr>
  <tr>
    <td> - Full Stack Web development </br>
-        - Universal Design and making tech more inclusive </br> 
+        - Universal Design and making tech more inclusive for those with disabilities</br> 
         - Artificial intelligence</br>
         - Game development</br>
         - Animations/stop motion</br>
@@ -25,7 +25,7 @@ I'm a first-year computer science student at the University of Michigan. I love 
     - :seedling: I love plants (but have killed many from various accidents...) </br>
     - :fairy: I like to craft random things like miniature fairy houses </br>
     - :star: Night owl and early bird! Somehow both </br>
-    - :skateboard: I paint and design boards in my freetime </br>
+    - :skateboard: I paint and design boards in my freetime (despite being board-less) </br>
     - :sweet_potato: Sweet potato addict </br>
     - :woman_artist: I tend to make a mess with my art </br>
   </td>
