@@ -1,7 +1,7 @@
 
 # Heya! I'm [Lydia](https://lydia-tan.github.io/Lydia-Tan/) 👋
 
-### I'm a first-year computer science student at the University of Michigan. I love learning and geeking out about all of the things I have yet to explore in the CS world :robot: 
+### I'm a second-year computer science student at the University of Michigan. I love learning and geeking out about all of the things I have yet to explore in the CS world :robot: 
 
 ------
 
@@ -23,9 +23,9 @@
  
   <td>
     - :seedling: I love plants (but have killed many from various accidents...) </br>
-    - :fairy: I like to craft random things like miniature fairy houses </br>
+    - :fairy: Halloween is my favorite holiday </br>
     - :star: Night owl and early bird! Somehow both </br>
-    - :skateboard: I paint and design boards in my freetime (despite being board-less) </br>
+    - :skateboard: I paint and design boards in my freetime (UPDATE: I have my own board now :)) </br>
     - :sweet_potato: Sweet potato addict </br>
     - :woman_artist: I tend to make a mess with my art </br>
   </td>
