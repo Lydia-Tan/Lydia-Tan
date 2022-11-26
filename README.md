@@ -1,7 +1,7 @@
 
 # Heya! I'm [Lydia](https://lydia-tan.github.io/Lydia-Tan/) 👋
 
-### I'm a second-year computer science student at the University of Michigan. I love learning and geeking out about all of the things I have yet to explore in the CS world :robot: 
+### I'm a third-year computer science student at the University of Michigan. I love learning and geeking out about all of the things I have yet to explore in the CS world :robot: 
 
 ------
 
