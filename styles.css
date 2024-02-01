@@ -115,6 +115,7 @@ main{
   background: #ECC973;
   border: 1vh solid #71594C;
   border-radius: 5vh;
+
 }
 
 .textbox-contact{
@@ -139,18 +140,19 @@ main{
   /* background: rgba(0,0,0,0.75); */
   height: auto;
   width: 100%;
-
+  
 }
 
 .text-greeting p{
   position: relative;
   display: inline-block;
   color: #71594C;
-
+  
   width: auto;
-  /* padding: 10%; */
-  margin: 10%;
-
+  padding: 10%;
+  /* margin: 10%;  */
+  
+  text-wrap: wrap; 
   font-size: 3vh;  
   font-weight: 600;
   line-height: 5vh;
@@ -183,6 +185,19 @@ main{
 }
 
 
+#typewriter_test::after{
+  content: "|";
+  font-size: 150%;
+  line-height: 20px;
+  animation: blink .75s step-end infinite;
+}
+
+@keyframes blink {
+  from, to { color: transparent }
+  50% { color: #71594C }
+}
+
+/*  */
 
 @media screen and (min-width:700px){
 }

@@ -1,24 +1,23 @@
 
 # Heya! I'm [Lydia](https://lydia-tan.github.io/Lydia-Tan/) 👋
 
-### I'm a third-year computer science student at the University of Michigan. I love learning and geeking out about all of the things I have yet to explore in the CS world :robot: 
+### I'm a senior (😱) computer science student at the University of Michigan. I love connecting with people and making things -- let's chat!
 
 ------
 
 <table>
  <tr>
-    <td><b style="font-size:30px">Curious about: :woman_technologist:</b></td>
+    <td><b style="font-size:30px">Currently working on: :woman_technologist:</b></td>
     <td><b style="font-size:30px">Bits about me: :space_invader:</b></td>
  </tr>
  <tr>
-   <td> - Full Stack Web development </br>
-        - Universal Design and making tech more inclusive for those with disabilities</br> 
-        - Artificial intelligence</br>
-        - Game development</br>
-        - Animations/stop motion</br>
-        - Geocaching</br>
-        - Keeping plants alive</br>
-    </td>
+   <td> - Interactive sound board/painting</br>
+        - Paper lightbox</br> 
+        - Mending clothes</br>
+        - Bartending</br>
+        - Zine-making </br>
+        - Tattoo designs :)</br>
+   </td>
     
  
   <td>
