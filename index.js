@@ -1,7 +1,7 @@
 // var greeting_box = $(".textbox-greeting")
 // var contact_box = $(".textbox-contact")
 var i = 0;
-var text = "Welcome! I'm Lydia Tan. This site is still under construction so come by again later.";
+var text = "Welcome, I'm Lydia. This site is still under construction so come by again later!";
 
 // document.getElementsByTagName("p")
 var speed = 45; /* The speed/duration of the effect in milliseconds */

@@ -110,7 +110,7 @@ main{
   /* grid-row-start: 2; */
   position:relative;
   z-index:100000;
-  height:45%;
+  height:50%;
   bottom: 10%;
   background: #ECC973;
   border: 1vh solid #71594C;
@@ -154,6 +154,7 @@ main{
   
   text-wrap: wrap; 
   font-size: 3vh;  
+  /* font-size: 3wh;   */
   font-weight: 600;
   line-height: 5vh;
   text-align: center;
